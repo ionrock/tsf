@@ -11,7 +11,6 @@ except ImportError:
 readme = open('README.rst').read()
 
 requirements = [
-    'click',
 ]
 
 setup(
